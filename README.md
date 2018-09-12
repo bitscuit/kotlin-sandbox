@@ -3,6 +3,6 @@ Repo to learn Python
 
 ## Things to do
 - [ ] data structures
-- [x] algorithms
+- [ ] algorithms
 - [ ] GUI stuff
 
