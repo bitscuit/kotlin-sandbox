@@ -1,5 +1,5 @@
 # python-sandbox
-Repo to learn Python
+Repo to learn Kotlin
 
 ## Things to do
 - [ ] data structures
